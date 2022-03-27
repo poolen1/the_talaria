@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Source_Practice\\Workspaces\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Source\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Source_Practice\\Workspaces\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Source_Practice\\Workspaces\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Source\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\poole\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\obj\\",
+        "projectPath": "C:\\Source_Practice\\Workspaces\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\pooleN\\.nuget\\packages\\",
+        "outputPath": "C:\\Source_Practice\\Workspaces\\the_talaria\\StudentDB\\CoreAPI\\WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\poole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pooleN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
@@ -67,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
